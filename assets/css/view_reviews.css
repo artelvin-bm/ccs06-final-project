@@ -1,0 +1,27 @@
+.review-card {
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+}
+.stars {
+    color: #FFD700;
+    font-size: 1.2rem;
+}
+.product-header img {
+    width: 100%;
+    max-height: 250px;
+    object-fit: contain;
+    border-radius: 12px;
+    background: #f8f8f8;
+    padding: 10px;
+}
+.product-header p strong {
+    font-size: 1.2rem;
+    color: #f39c12; /* Gold for average rating */
+}
+.product-header p {
+    font-size: 1.1rem;
+    font-weight: bold;
+}

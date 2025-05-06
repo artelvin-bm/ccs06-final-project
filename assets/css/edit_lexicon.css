@@ -1,0 +1,8 @@
+.word-item.active {
+    background-color: #007BFF;
+    border-color: #DEE2E6;
+    cursor: pointer;
+}
+.word-item {
+    cursor: pointer;
+}
